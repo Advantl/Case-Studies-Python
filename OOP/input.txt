@@ -1,0 +1,6 @@
+5
+BUY pet67 hse_econ 100000
+PRICE_FALL hse_econ 10
+SELL pet67 hse_econ 10000
+PRICE_RAISE hse_econ 30
+BALANCE pet67
