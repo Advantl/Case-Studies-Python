@@ -42,3 +42,7 @@
 ### **Кейс 1** 
 ["MVP для приложения банка"](OOP/oop_python.ipynb)
 
+
+## Сбор данных через API: 
+### **Кейс 1** 
+[Pokéapi](API/pokeapi.ipynb)
