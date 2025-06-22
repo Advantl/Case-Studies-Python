@@ -38,10 +38,10 @@
 [Решение](https://github.com/Advantl/Case-Studies-Python/blob/main/solution_case_3.ipynb)
 
 ## Библиотеки Python для анализа данных:
-[Типовые виды анализов:](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)
-- ABC анализ
-- XYZ анализ
-- Динамика продаж <br>
+Типовые виды анализов:
+- [ABC анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)
+- [XYZ анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)
+- [Динамика продаж](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb) <br>
 *Libraries used: Pandas, Numpy*
 
 ## Объектно-ориентированное программирование:
