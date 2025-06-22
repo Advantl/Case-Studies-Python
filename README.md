@@ -40,7 +40,7 @@
 ## Библиотеки Python для анализа данных:
 [Типовые виды анализов:](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)
 - ABC анализ
-- XYZ анализ
+- [XYZ анализ](https://github.com/Advantl/Case-Studies-Python/blob/8601a468062fb0ef45563b90871a7c617471e1a5/Python%20for%20DA/pandas_abc_xyz_sales.ipynb#L590)
 - Динамика продаж <br>
 *Libraries used: Pandas, Numpy (выполнение анализов приводится не полностью, так как цель данного учебного кейса — продемонстрировать навыки владения инструментами библиотек.)*
 
