@@ -39,13 +39,13 @@
 
 ## Библиотеки Python для анализа данных:
 
-[Анализ успеваемости студентов](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/students_performance.ipynb)
+[Анализ успеваемости студентов](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/students_performance.ipynb)<br>
 *Libraries used: Pandas*
 
 Типовые виды анализов:
-- [ABC анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)
+- [ABC анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)<br>
 *Libraries used: Pandas, Numpy*
-- [XYZ анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)
+- [XYZ анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)<br>
 *Libraries used: Pandas, Numpy*
 - [Динамика продаж](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb) <br>
 *Libraries used: Pandas, Numpy*
