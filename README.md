@@ -37,7 +37,7 @@
 
 [Решение](https://github.com/Advantl/Case-Studies-Python/blob/main/solution_case_3.ipynb)
 
-## Библиотеки Python для анализа данных:
+## Библиотеки Python для анализа и визуализации данных:
 
 [Анализ успеваемости студентов](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/students_performance.ipynb)<br>
 *Libraries used: Pandas*
@@ -48,7 +48,7 @@
 - [XYZ анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)<br>
 *Libraries used: Pandas, Numpy*
 - [Динамика продаж](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb) <br>
-*Libraries used: Pandas, Numpy*
+*Libraries used: Pandas*
 
 ## Объектно-ориентированное программирование:
 
