@@ -58,3 +58,11 @@
 ## Сбор данных через API: 
 
 [Pokéapi](API/pokeapi.ipynb)
+
+## ETL pipeline:
+
+[Кейс региональной аптечной сети](https://github.com/Advantl/Case-Studies-Python/blob/main/ETL/etl_case.ipynb)
+- Extract: извлечение данных из различных CSV-файлов.    
+- Transform: преобразование данных в соответствии с бизнес-требованиями.    
+- Load: сохранение обработанных и преобразованных данных в новые файлы Excel с заданными форматом и структурой.
+*Libraries used: Pandas, os, datetime
