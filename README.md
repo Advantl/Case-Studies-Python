@@ -50,7 +50,16 @@
 - [Динамика продаж](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_analysis.ipynb)  
 *Libraries used: Pandas*
 - [Сочетаемость Товаров](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_analysis.ipynb)  
-*Libraries used: Pandas*  
+*Libraries used: Pandas*
+
+[Анализ активности пользователей платформы и расчет метрик:]()  
+- retention  
+- rolling retention  
+- lifetime  
+- churn rate  
+- mau  
+- wau  
+- dau  
 
 ## Объектно-ориентированное программирование:
 
