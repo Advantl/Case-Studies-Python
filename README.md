@@ -43,12 +43,14 @@
 *Libraries used: Pandas*
 
 Типовые виды анализов:
-- [ABC анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)<br>
+- [ABC анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_analysis.ipynb)  
 *Libraries used: Pandas, Numpy*
-- [XYZ анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb)<br>
+- [XYZ анализ](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_analysis.ipynb)  
 *Libraries used: Pandas, Numpy*
-- [Динамика продаж](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_abc_xyz_sales.ipynb) <br>
+- [Динамика продаж](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_analysis.ipynb)  
 *Libraries used: Pandas*
+- [Сочетаемость Товаров](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_analysis.ipynb)
+*Libraries used: Pandas*  
 
 ## Объектно-ориентированное программирование:
 
