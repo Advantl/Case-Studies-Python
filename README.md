@@ -62,6 +62,9 @@
 - wau  
 - dau  
 
+[Проект по описательной статистике]()
+*Libraries used: Pandas, Numpy, Matplotlib, Seaborn, Scipy*
+
 ## Объектно-ориентированное программирование:
 
 [MVP для приложения банка](OOP/oop_python.ipynb)
