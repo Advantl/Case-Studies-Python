@@ -52,7 +52,8 @@
 - [Сочетаемость Товаров](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_analysis.ipynb)  
 *Libraries used: Pandas*
 
-[Анализ активности пользователей платформы и расчет метрик:]()  
+[Анализ активности пользователей платформы и расчет метрик:](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_metrics.ipynb)  
+*Libraries used: Pandas*
 - retention  
 - rolling retention  
 - lifetime  
