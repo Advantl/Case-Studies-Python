@@ -62,8 +62,11 @@
 - wau  
 - dau  
 
-[Проект по описательной статистике]()
+[Проект по описательной статистике]()  
 *Libraries used: Pandas, Numpy, Matplotlib, Seaborn, Scipy*
+
+[Анализ продаж](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_sales_analysis.ipynb)  
+*Libraries used:Pandas, Numpy, Matplotlib, Seaborn*   
 
 ## Объектно-ориентированное программирование:
 
