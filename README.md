@@ -62,7 +62,7 @@
 - wau  
 - dau  
 
-[Проект по описательной статистике]()  
+[Проект по описательной статистике](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/descriptive_statistics.ipynb)  
 *Libraries used: Pandas, Numpy, Matplotlib, Seaborn, Scipy*
 
 [Анализ продаж](https://github.com/Advantl/Case-Studies-Python/blob/main/Python%20for%20DA/pandas_sales_analysis.ipynb)  
