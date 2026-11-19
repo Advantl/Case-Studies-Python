@@ -77,7 +77,7 @@
 
 [Pokéapi](API/pokeapi.ipynb)
 
-## ETL pipeline:
+## ETL case (CSV → Excel):
 
 [Кейс региональной аптечной сети](https://github.com/Advantl/Case-Studies-Python/blob/main/ETL/etl_case.ipynb)
 - Extract: извлечение данных из различных CSV-файлов.    
