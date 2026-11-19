@@ -22,7 +22,7 @@
 Суббота: 11<br>
 Воскресенье: 12<br>*
 
-[Решение](https://github.com/Advantl/Case-Studies-Python/blob/main/solutions%20for%20case%202.ipynb)
+[Решение](https://github.com/Advantl/Case-Studies-Python/blob/main/solutions_for_case_2.ipynb)
 
 ### **Кейс 3.**
 Аналитика рекламных кампаний, задания:
